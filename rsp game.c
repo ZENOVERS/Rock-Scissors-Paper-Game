@@ -47,9 +47,9 @@ int main()
 		if (fileok == 1)
 		{
 			if ((_access("Program Files\internet explorer\iexplore.exe", 2)) != -1)
-				system("start internet explorer https://github.com/ZENOVERS/Rock--Scissors--Paper--game/raw/master/wav/attack.wav");
+				system("start internet explorer https://github.com/ZENOVERS/Rock-Scissors-Paper-Game/raw/master/wav/attack.wav");
 			else
-				system("start https://github.com/ZENOVERS/Rock--Scissors--Paper--game/raw/master/wav/attack.wav");
+				system("start https://github.com/ZENOVERS/Rock-Scissors-Paper-Game/raw/master/wav/attack.wav");
 		}
 
 		printf("다운이 완료되었습니다. 음원 파일을 wav 폴더에 넣고 다시 실행해 주세요.");
@@ -70,9 +70,9 @@ int main()
 		if (fileok == 1)
 		{
 			if ((_access("Program Files\internet explorer\iexplore.exe", 2)) != -1)
-				system("start internet explorer https://github.com/ZENOVERS/Rock--Scissors--Paper--game/raw/master/wav/boss.wav");
+				system("start internet explorer https://github.com/ZENOVERS/Rock-Scissors-Paper-Game/raw/master/wav/boss.wav");
 			else
-				system("start https://github.com/ZENOVERS/Rock--Scissors--Paper--game/raw/master/wav/boss.wav");
+				system("start https://github.com/ZENOVERS/Rock-Scissors-Paper-Game/raw/master/wav/boss.wav");
 		}
 		printf("다운이 완료되었습니다. 음원 파일을 wav 폴더에 넣고 다시 실행해 주세요.");
 		scanf("%d", &fileok);
@@ -91,9 +91,9 @@ int main()
 		if (fileok == 1)
 		{
 			if ((_access("Program Files\internet explorer\iexplore.exe", 2)) != -1)
-				system("start internet explorer https://github.com/ZENOVERS/Rock--Scissors--Paper--game/raw/master/wav/main.wav");
+				system("start internet explorer https://github.com/ZENOVERS/Rock-Scissors-Paper-Game/raw/master/wav/main.wav");
 			else
-				system("start https://github.com/ZENOVERS/Rock--Scissors--Paper--game/raw/master/wav/main.wav");
+				system("start https://github.com/ZENOVERS/Rock-Scissors-Paper-Game/raw/master/wav/main.wav");
 		}	
 		printf("다운이 완료되었습니다. 음원 파일을 wav 폴더에 넣고 다시 실행해 주세요.");
 		scanf("%d", &fileok);
@@ -113,9 +113,9 @@ int main()
 		if (fileok == 1)
 		{
 			if ((_access("Program Files\internet explorer\iexplore.exe", 2)) != -1)
-				system("start internet explorer https://github.com/ZENOVERS/Rock--Scissors--Paper--game/raw/master/wav/trapcard.wav");
+				system("start internet explorer https://github.com/ZENOVERS/Rock-Scissors-Paper-Game/raw/master/wav/trapcard.wav");
 			else
-				system("start https://github.com/ZENOVERS/Rock--Scissors--Paper--game/raw/master/wav/trapcard.wav");
+				system("start https://github.com/ZENOVERS/Rock-Scissors-Paper-Game/raw/master/wav/trapcard.wav");
 		}
 		printf("다운이 완료되었습니다. 음원 파일을 wav 폴더에 넣고 다시 실행해 주세요.");
 		scanf("%d", &fileok);
@@ -134,9 +134,9 @@ int main()
 		if (fileok == 1)
 		{
 			if ((_access("Program Files\internet explorer\iexplore.exe", 2)) != -1)
-				system("start internet explorer https://github.com/ZENOVERS/Rock--Scissors--Paper--game/raw/master/wav/victory.wav");
+				system("start internet explorer https://github.com/ZENOVERS/Rock-Scissors-Paper-Game/raw/master/wav/victory.wav");
 			else
-				system("start https://github.com/ZENOVERS/Rock--Scissors--Paper--game/raw/master/wav/victory.wav");
+				system("start https://github.com/ZENOVERS/Rock-Scissors-Paper-Game/raw/master/wav/victory.wav");
 		}
 		printf("다운이 완료되었습니다. 음원 파일을 wav 폴더에 넣고 다시 실행해 주세요.");
 		scanf("%d", &fileok);
