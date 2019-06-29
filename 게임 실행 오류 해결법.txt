@@ -1,0 +1,3 @@
+게임 실행하고 wav폴더에 5가지(attack, main, trapcard, victory, boss) 파일이 있는데도 없다고 뜨는 경우 
+
+ - wav 폴더 안에 있는 exe파일 직접 실행 

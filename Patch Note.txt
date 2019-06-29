@@ -1,4 +1,4 @@
-https://github.com/ZENOVERS/Rock--Scissors--Paper--game
+https://github.com/ZENOVERS/Rock-Scissors-Paper-Game
 (파일과 음원 다운로드)
 
        [패치노트]   (최종 수정일 2019.6.29) 
@@ -7,6 +7,8 @@ https://github.com/ZENOVERS/Rock--Scissors--Paper--game
 ========== BETA VER. 6.0.0.0 ==========
 
 음원 복구 시스템
+
+경량화 (70MB -> 17MB)
 
 ========== BETA VER. 5.9.0.0 ==========
 
